@@ -16,3 +16,7 @@ Therefore, we crafted a program that uses face reading to detect drowsiness and 
 - SciPy
 - Tkinter
 - Pillow
+
+A picture with the program's GUI: (The Camera is turned off)
+
+!(gui_image)[https://i.postimg.cc/rwTK5LwJ/image.png]
